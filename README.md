@@ -1,4 +1,5 @@
 # Running the app
+Java and Maven are required
 * Go to the app dir where pom.xml is
 * Build the app and run the tests by running the following command: mvn clean install
 * Run the app by running the following command: mvn spring-boot:run -Dspring-boot.run.arguments="[logfile path]"
